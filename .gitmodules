@@ -1,0 +1,3 @@
+[submodule "MySub"]
+	path = MySub
+	url = https://github.com/ThomasHoevel/MySub
